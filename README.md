@@ -1,5 +1,28 @@
 本项目由 https://github.com/wangzheng0822/algo 项目fork。该项目很优秀，几乎用各大语言做了示例，既可以实操数据结构和算法，也可以通过使用对比来感受各大语言的使用差异，欢迎大家支持原项目。为了更好的更新，故fork。
 
+<div align="center">
+	<p align="center">
+		<a href="https://confluence.uuyang.cn/zh/">
+			<img src="https://oss.uuyang.cn/confluence%2Flogo.svg" alt="logo" style="transform: rotate(0deg) scale(1, 1); opacity: 1; width: 220.096px; height: 178.752px; overflow: visible;">
+		</a>
+	</p>
+	<h1 align="center">code-base</h1>
+	<h4 align="center">✨编程基础 / code-base✨</h4>
+</div>
+
+<div align="center">
+	<a href="https://confluence.uuyang.cn/zh/">
+		<img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读" />
+	</a>
+	<img src="https://img.shields.io/github/stars/lcp-code/code-base" alt="stars" />
+	<img src="https://img.shields.io/github/forks/lcp-code/code-base" alt="forks" />
+	<img src="https://img.shields.io/github/issues/lcp-code/code-base" alt="issues" />
+	<img src="https://img.shields.io/npm/l/vuepress-theme-hope.svg" alt="License" />
+</div>
+
+<p align="center" style="margin: 10px 0 0 0;">编程基础，涵盖几个主要语言的数据结构和算法使用，以及更多编程基础知识。</p>
+<p align="center" style="margin-bottom: 100px;">Programming fundamentals, covering data structures and algorithm usage in several major languages, plus more programming fundamentals.</p>
+
 ## 数组
 * 实现一个支持动态扩容的数组
 * 实现一个大小固定的有序数组，支持动态增删改操作

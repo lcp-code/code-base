@@ -1,7 +1,7 @@
 {
   "type": "module",
   "scripts": {
-    "start": "ts-node-esm .\\06_linkedlist\\LinkedList"
+    "start": "ts-node-esm .\\08_stack\\StackAndBrowser"
   },
   "dependencies": {
     "ts-node": "^10.8.1",
